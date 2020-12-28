@@ -32,7 +32,7 @@ class AuthViewModel(val repo: AuthRepository) : ViewModel() {
                 AuthUser(
                     email = email.value ?: "",
                     password = password.value ?: "",
-                    fullname = fullname.value ?: ""
+                    fullName =  fullname.value ?: ""
                 )
             )
             authRegister.value = resp

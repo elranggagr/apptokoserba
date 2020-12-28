@@ -9,4 +9,8 @@
     <string name="register">register</string>
     <string name="full_name">nama lengkap</string>
     <string name="nama_lengkap">full_name</string>
+    <string name="ic_home">Beranda</string>
+    <string name="ic_news">Berita</string>
+    <string name="ic_favorite">Favorit</string>
+    <string name="ic_profile">Profil</string>
 </resources>
